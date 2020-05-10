@@ -1,0 +1,116 @@
+MCODE App Results
+Date: 30.Eki.2019 16:24:19
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	31,412	35	534	
+05223(Non-small cell lung cancer), 
+04150(mTOR signaling pathway), 
+04066(HIF-1 signaling pathway), 
+05222(Small cell lung cancer), 
+05221(Acute myeloid leukemia), 
+05220(Chronic myeloid leukemia), 
+05218(Melanoma), 
+05160(Hepatitis C), 
+05215(Prostate cancer), 
+04012(ErbB signaling pathway), 
+05214(Glioma), 
+05213(Endometrial cancer), 
+05212(Pancreatic cancer), 
+05211(Renal cell carcinoma), 
+05210(Colorectal cancer), 
+05161(Hepatitis B), 
+05145(Toxoplasmosis), 
+05142(Chagas disease (American trypanosomiasis)), 
+04960(Aldosterone-regulated sodium reabsorption), 
+04930(Type II diabetes mellitus), 
+04914(Progesterone-mediated oocyte maturation), 
+04910(Insulin signaling pathway), 
+04725(Cholinergic synapse), 
+04722(Neurotrophin signaling pathway), 
+04668(TNF signaling pathway), 
+04666(Fc gamma R-mediated phagocytosis), 
+04664(Fc epsilon RI signaling pathway), 
+04662(B cell receptor signaling pathway), 
+04660(T cell receptor signaling pathway), 
+04062(Chemokine signaling pathway), 
+04650(Natural killer cell mediated cytotoxicity), 
+04620(Toll-like receptor signaling pathway), 
+04380(Osteoclast differentiation), 
+04370(VEGF signaling pathway), 
+05230(Central carbon metabolism in cancer)
+
+
+2	14,3	21	143	
+
+04724(Glutamatergic synapse), 
+04723(Retrograde endocannabinoid signaling), 
+04540(Gap junction), 
+04971(Gastric acid secretion), 
+04970(Salivary secretion), 
+04270(Vascular smooth muscle contraction), 
+04611(Platelet activation), 
+05031(Amphetamine addiction), 
+04918(Thyroid hormone synthesis), 
+04114(Oocyte meiosis), 
+04916(Melanogenesis), 
+04961(Endocrine and other factor-regulated calcium reabsorption), 
+04022(cGMP-PKG signaling pathway), 
+05200(Pathways in cancer), 
+04810(Regulation of actin cytoskeleton), 
+04727(GABAergic synapse), 
+04020(Calcium signaling pathway), 
+04922(Glucagon signaling pathway), 
+04728(Dopaminergic synapse), 
+04726(Serotonergic synapse), 
+04151(PI3K-Akt signaling pathway)
+
+
+3	5,2	11	26	
+
+05131(Shigellosis), 
+05100(Bacterial invasion of epithelial cells), 
+04622(RIG-I-like receptor signaling pathway), 
+05140(Leishmaniasis), 
+04912(GnRH signaling pathway), 
+04720(Long-term potentiation), 
+04630(Jak-STAT signaling pathway), 
+05132(Salmonella infection), 
+05152(Tuberculosis), 
+04621(NOD-like receptor signaling pathway), 
+05133(Pertussis)
+
+
+4	4,5	5	9	
+
+00640(Propanoate metabolism), 
+00280(Valine, leucine and isoleucine degradation), 
+00071(Fatty acid metabolism), 
+00380(Tryptophan metabolism), 
+00650(Butanoate metabolism)
+
+5	4	4	6	
+
+05010(Alzheimer's disease), 
+05016(Huntington's disease), 
+00190(Oxidative phosphorylation), 
+05012(Parkinson's disease)
+
+
+6	3,333	4	5	
+
+05164(Influenza A), 
+04010(MAPK signaling pathway), 
+04210(Apoptosis), 
+05169(Epstein-Barr virus infection)
+
+7	3	3	3	
+
+00410(beta-Alanine metabolism), 
+00350(Tyrosine metabolism),
+00360(Phenylalanine metabolism)

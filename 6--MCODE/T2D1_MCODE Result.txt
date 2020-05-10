@@ -1,0 +1,111 @@
+MCODE App Results
+Date: 29.Eki.2019 14:38:24
+
+119 13562'lık netwok'ü kullandım. Önce jActiveModules(50, 0.5 diğerleri default) ardından mcode(default) çalıştırdım.
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	32,919	38	609	
+
+05211(Renal cell carcinoma), 
+05210(Colorectal cancer), 
+05160(Hepatitis C), 
+04370(VEGF signaling pathway), 
+05145(Toxoplasmosis), 
+05142(Chagas disease (American trypanosomiasis)), 
+04973(Carbohydrate digestion and absorption), 
+04071(Sphingolipid signaling pathway), 
+04960(Aldosterone-regulated sodium reabsorption), 
+04930(Type II diabetes mellitus),
+04062(Chemokine signaling pathway), 
+04917(Prolactin signaling pathway), 
+04914(Progesterone-mediated oocyte maturation), 
+04550(Signaling pathways regulating pluripotency of stem cells), 
+04910(Insulin signaling pathway), 
+04620(Toll-like receptor signaling pathway), 
+04725(Cholinergic synapse), 
+04722(Neurotrophin signaling pathway), 
+04666(Fc gamma R-mediated phagocytosis), 
+04380(Osteoclast differentiation), 
+04660(T cell receptor signaling pathway), 
+04664(Fc epsilon RI signaling pathway), 
+04650(Natural killer cell mediated cytotoxicity), 
+04662(B cell receptor signaling pathway), 
+04210(Apoptosis), 
+04150(mTOR signaling pathway), 
+04510(Focal adhesion), 
+05230(Central carbon metabolism in cancer), 
+05223(Non-small cell lung cancer), 
+05222(Small cell lung cancer), 
+04012(ErbB signaling pathway), 
+05221(Acute myeloid leukemia),
+05220(Chronic myeloid leukemia),
+05218(Melanoma), 
+05215(Prostate cancer), 
+05214(Glioma), 
+05213(Endometrial cancer), 
+05212(Pancreatic cancer)
+
+
+2	8,462	14	55	
+
+04724(Glutamatergic synapse), 
+04728(Dopaminergic synapse), 
+04723(Retrograde endocannabinoid signaling), 
+04270(Vascular smooth muscle contraction), 
+04114(Oocyte meiosis), 
+04971(Gastric acid secretion), 
+04970(Salivary secretion), 
+04010(MAPK signaling pathway), 
+05200(Pathways in cancer), 
+04922(Glucagon signaling pathway), 
+05031(Amphetamine addiction), 
+04020(Calcium signaling pathway), 
+04810(Regulation of actin cytoskeleton), 
+04730(Long-term depression),
+
+
+3	4,75	9	19	
+05152(Tuberculosis), 
+04726(Serotonergic synapse), 
+04720(Long-term potentiation), 
+05166(HTLV-I infection), 
+04727(GABAergic synapse), 
+04540(Gap junction), 
+04916(Melanogenesis), 
+05216(Thyroid cancer), 
+04912(GnRH signaling pathway),
+
+
+
+4	3,333	4	5	
+
+00410(beta-Alanine metabolism), 
+00010(Glycolysis / Gluconeogenesis), 
+00350(Tyrosine metabolism), 
+00360(Phenylalanine metabolism),
+
+
+5	3	3	3	
+
+05132(Salmonella infection), 
+05131(Shigellosis), 
+05100(Bacterial invasion of epithelial cells),
+
+
+6	3	3	3	
+
+05133(Pertussis), 
+04621(NOD-like receptor signaling pathway), 
+05140(Leishmaniasis),
+
+7	3	3	3	
+
+05410(Hypertrophic cardiomyopathy (HCM)), 
+04512(ECM-receptor interaction), 
+05412(Arrhythmogenic right ventricular cardiomyopathy (ARVC))

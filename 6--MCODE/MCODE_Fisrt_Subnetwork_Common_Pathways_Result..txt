@@ -1,0 +1,39 @@
+29 common elements in "T2D1", "T2D2", "T2D3" and "T2DCombined":
+
+Pahway ID		Pathway Name
+
+05211           Renal cell carcinoma                                 
+05210           Colorectal cancer                                    
+05160           Hepatitis C                                          
+04370           VEGF signaling pathway                               
+05145           Toxoplasmosis                                        
+05142           Chagas disease (American trypanosomiasis)            
+04930           Type II diabetes mellitus                            
+04062           Chemokine signaling pathway                          
+04914           Progesterone-mediated oocyte maturation              
+04910           Insulin signaling pathway                            
+04620           Toll-like receptor signaling pathway                 
+04725           Cholinergic synapse                                  
+04722           Neurotrophin signaling pathway                       
+04666           Fc gamma R-mediated phagocytosis                     
+04380           Osteoclast differentiation                            
+04660           T cell receptor signaling pathway                    
+04664           Fc epsilon RI signaling pathway                      
+04650           Natural killer cell mediated cytotoxicit             
+04662           B cell receptor signaling pathway                    
+04150           mTOR signaling pathway                               
+05223           Non-small cell lung cancer                           
+04012           ErbB signaling pathway                               
+05221           Acute myeloid leukemia                               
+05220           Chronic myeloid leukemia                             
+05218           Melanoma                                             
+05215           Prostate cancer                                      
+05214           Glioma                                               
+05213           Endometrial cancer                                   
+05212           Pancreatic cancer                                    
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+                                                                     

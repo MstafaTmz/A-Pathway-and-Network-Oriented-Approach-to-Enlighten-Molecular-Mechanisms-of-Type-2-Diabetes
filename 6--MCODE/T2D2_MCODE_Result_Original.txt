@@ -1,0 +1,132 @@
+MCODE App Results
+Date: 30.Eki.2019 12:44:09
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+
+1	30,182	34	498	
+
+05145(Toxoplasmosis), 
+05142(Chagas disease (American trypanosomiasis)), 
+04930(Type II diabetes mellitus), 
+04914(Progesterone-mediated oocyte maturation), 
+04910(Insulin signaling pathway), 
+04725(Cholinergic synapse), 
+04722(Neurotrophin signaling pathway), 
+04510(Focal adhesion), 
+04668(TNF signaling pathway), 
+04666(Fc gamma R-mediated phagocytosis), 
+04664(Fc epsilon RI signaling pathway), 
+04662(B cell receptor signaling pathway), 
+04012(ErbB signaling pathway), 
+04660(T cell receptor signaling pathway), 
+04650(Natural killer cell mediated cytotoxicity), 
+04620(Toll-like receptor signaling pathway), 
+04380(Osteoclast differentiation), 
+04370(VEGF signaling pathway), 
+04210(Apoptosis), 
+04150(mTOR signaling pathway), 
+05160(Hepatitis C), 
+04066(HIF-1 signaling pathway), 
+05223(Non-small cell lung cancer), 
+04062(Chemokine signaling pathway), 
+05222(Small cell lung cancer), 
+05221(Acute myeloid leukemia), 
+05220(Chronic myeloid leukemia), 
+05218(Melanoma), 
+05215(Prostate cancer), 
+05214(Glioma), 
+05213(Endometrial cancer), 
+05212(Pancreatic cancer), 
+05211(Renal cell carcinoma), 
+05210(Colorectal cancer)
+
+2	13,111	19	118	
+
+04913(Ovarian steroidogenesis), 
+04727(GABAergic synapse), 
+04810(Regulation of actin cytoskeleton), 
+05166(HTLV-I infection), 
+04020(Calcium signaling pathway), 
+05031(Amphetamine addiction), 
+04728(Dopaminergic synapse), 
+04961(Endocrine and other factor-regulated calcium reabsorption), 
+04726(Serotonergic synapse), 
+04270(Vascular smooth muscle contraction), 
+04921(Oxytocin signaling pathway), 
+04922(Glucagon signaling pathway), 
+04724(Glutamatergic synapse), 
+04114(Oocyte meiosis), 
+04723(Retrograde endocannabinoid signaling), 
+04971(Gastric acid secretion), 
+04611(Platelet activation), 
+04970(Salivary secretion), 
+04916(Melanogenesis)
+
+
+3	5,286	15	37	
+
+05216(Thyroid cancer), 
+04912(GnRH signaling pathway), 
+04622(RIG-I-like receptor signaling pathway), 
+05100(Bacterial invasion of epithelial cells), 
+04540(Gap junction), 
+04730(Long-term depression), 
+04621(NOD-like receptor signaling pathway), 
+05414(Dilated cardiomyopathy), 
+04720(Long-term potentiation), 
+05152(Tuberculosis), 
+05140(Leishmaniasis), 
+05132(Salmonella infection), 
+05133(Pertussis), 
+05131(Shigellosis), 
+05219(Bladder cancer)
+
+
+4	5	5	10	
+
+05012(Parkinson's disease), 
+05010(Alzheimer's disease), 
+04260(Cardiac muscle contraction), 
+00190(Oxidative phosphorylation), 
+05016(Huntington's disease)
+
+5	4,5	5	9	
+
+00640(Propanoate metabolism), 
+00280(Valine, leucine and isoleucine degradation), 
+00071(Fatty acid metabolism), 
+00650(Butanoate metabolism), 
+00380(Tryptophan metabolism)
+
+
+6	4	4	6	
+
+00982(Drug metabolism), 
+00140(Steroid hormone biosynthesis), 
+00980(Metabolism of xenobiotics by cytochrome), 
+00830(Retinol metabolism)
+
+7	3	3	3	
+
+05162(Measles), 
+05164(Influenza A), 
+05169(Epstein-Barr virus infection)
+
+8	3	3	3	
+
+04512(ECM-receptor interaction), 
+05410(Hypertrophic cardiomyopathy (HCM)), 
+05412(Arrhythmogenic right ventricular cardiomyopathy (ARVC))
+
+
+9	3	3	3	
+
+04340(Hedgehog signaling pathway), 
+05217(Basal cell carcinoma), 
+04310(Wnt signaling pathway)
